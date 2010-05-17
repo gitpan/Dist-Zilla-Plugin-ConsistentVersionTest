@@ -1,0 +1,13 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+SIGNATURE
+dist.ini
+lib/Dist/Zilla/Plugin/ConsistentVersionTest.pm
+t/00-compile.t
+t/release-kwalitee.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t
