@@ -1,6 +1,6 @@
 package Dist::Zilla::Plugin::ConsistentVersionTest;
 BEGIN {
-  $Dist::Zilla::Plugin::ConsistentVersionTest::VERSION = '0.01';
+  $Dist::Zilla::Plugin::ConsistentVersionTest::VERSION = '0.02';
 }
 
 use strict;
@@ -31,7 +31,7 @@ Dist::Zilla::Plugin::ConsistentVersionTest - Adds a release test to ensure that 
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

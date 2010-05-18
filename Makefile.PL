@@ -20,9 +20,10 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'Dist::Zilla::Plugin::ConsistentVersionTest',
   'PREREQ_PM' => {
+    'Dist::Zilla' => '2',
     'Test::ConsistentVersion' => '0'
   },
-  'VERSION' => '0.01',
+  'VERSION' => '0.02',
   'test' => {
     'TESTS' => 't/*.t'
   }
